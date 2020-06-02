@@ -24,3 +24,4 @@ const getPuzzleOld = (wordCount) => {
         return data.puzzle
     })
 }
+export { getPuzzle as default }

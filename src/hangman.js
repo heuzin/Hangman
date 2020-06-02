@@ -68,3 +68,5 @@ class HangmanGame {
         this.calculateStatus()
     }
 }
+
+export { HangmanGame as default }
